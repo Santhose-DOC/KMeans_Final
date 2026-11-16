@@ -1,5 +1,5 @@
 # Exp 02 K-Means Clustering
-**Date:**
+**Date:** 16/11/2026
 
 ## AIM:
 To implement the K-Means Clustering algorithm in Python to group customers based on their Annual Income and Spending Score and visualize the clusters using a scatter plot.
